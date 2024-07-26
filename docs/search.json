@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estatística e programação com o leem",
+    "section": "",
+    "text": "Bem-vindo\nEsse é um livro digital intitulado “Estatística e programação com o leem”, com o selo Democratizando Conhecimento (DC). O leem é a sigla que representa o Laboratório de Ensino a Estatítica e Matemática idealizado por meio do pacote leem, Um pacote estatístico R voltado para o ensino da estatística.   O número de leitores que acessaram esse livro: \n\n\n \n\n\n\nLivro físico\nEste livro ainda se encontra em desenvolvimento!\n\n\nISBN\n\nISBN (Digital):\nISBN (Físico):\n\n\n\nLicença\n\n\n\n\n\nEste trabalho está sob a Licença Creative Commons - Atribuição-NãoComercial 4.0 Internacional.\n\n\n\n\n\n\n\nUsamos também a filosofia de trabalho com o Selo Democratizando Conhecimento (DC), que pode ser acessada em https://bendeivide.github.io/dc/. O leitor é livre para compartilhar, redistribuir, transformar ou adaptar esta obra, desde que não venha a utilizá-la em nenhuma atividade de propósito comercial. Por fim, a única exigência é a atribuição dos créditos aos autores da obra.\n\n\n \n\n\nComo citar\n\nComo citar essa obra (Impressa):\nComo citar essa obra (Digital):"
+  },
+  {
+    "objectID": "cap00.html",
+    "href": "cap00.html",
+    "title": "1  Entendendo a Coleção Estudando o leem",
+    "section": "",
+    "text": "asdfasfgsdfb"
+  },
+  {
+    "objectID": "cap00.html#introdução",
+    "href": "cap00.html#introdução",
+    "title": "1  Entendendo a Coleção Estudando o leem",
+    "section": "1.1 Introdução",
+    "text": "1.1 Introdução\nA Coleção Estudando o leem é um conjunto de pelo menos dois volumes de livros que apresenta um manual de como utilizar o pacote leem para complementos didáticos de ensino a Estatística e Matemática. O primeiro volume mostrará as ferramentas para o ensino didático da estatística. Já, o segundo volume apresenta as ferramentas para o ensino da Matemática. Os dois volumes contemplam ferramentas para que os assuntos sejam abordados tanto no ensino básico quanto ao ensino superior.\nComplementamos as informações anteriores que motivam a criação dessa coleção, acrescentando que não objetivamos ensinar os assuntos teóricos da Estatística e Matemática. Mas, criamos seções que apresentam o planejamento de como as ferramentas existentes no leem podem auxiliar estes assuntos nas aulas de Estatística e Matemática.\nA sigla leem representa as iniciais do termo Laboratório de Ensino à Estatística e Matemática, um pacote R em que quase todas as suas funções foram desenvolvidas nessa linguagem. Recomendamos um conhecimento prévio sobre a linguagem R, indicando como estudo, uma das referências o livro R básico (Batista e Oliveira, 2022).\n\n\n\n\n\n\nImportante\n\n\n\nLinguagem R. R é um software livre, desenvolvido em 1991 pelos professores George Ross Ihaka e Robert Clifford Gentleman do Departamento de Estatística da Universidade Auckland, na Nova Zelândia. Inicialmente a também linguagem de programação foi desenvolvida para análise e visualização de dados, porém, devido sua versatilidade é possível ver o R em uma imensa gama de projetos.\n\n\n\n\n\n\nBATISTA, B. D. O.; OLIVEIRA, D. A. B. J. R básico. 1. ed. Ouro Branco, MG: [s.n.], 2022. p. 321"
+  }
+]

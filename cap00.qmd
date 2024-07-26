@@ -1,0 +1,23 @@
+# Entendendo a Coleção Estudando o leem
+
+```{r, include=FALSE}
+# Links
+rlink <- "[R](http://r-project.org/){target='_blank'}"
+rstudio <- "[RStudio](http://rstudio.org/){target='_blank'}"
+cran <- "[CRAN](http://cran.r-project.org/){target='_blank'}"
+github <- "[GitHub](http://github.com/){target='_blank'}"
+leem <- "[leem](https://bendeivide.github.io/leem/){target='_blank'}"
+git <- "[Git](https://git-scm.com/)"
+```
+
+## Introdução
+
+A *Coleção Estudando o leem* é um conjunto de pelo menos dois volumes de livros que apresenta um manual de como utilizar o pacote `r leem` para complementos didáticos de ensino a Estatística e Matemática. O primeiro volume mostrará as ferramentas para o ensino didático da estatística. Já, o segundo volume apresenta as ferramentas para o ensino da Matemática. Os dois volumes contemplam ferramentas para que os assuntos sejam abordados tanto no ensino básico  quanto ao ensino superior.
+
+Complementamos as informações anteriores que motivam a criação dessa coleção,  acrescentando que não objetivamos ensinar os assuntos teóricos da Estatística e Matemática. Mas, criamos seções que apresentam o planejamento de como as ferramentas existentes no `r leem` podem auxiliar estes assuntos nas aulas de Estatística e Matemática.
+
+A sigla *leem* representa as iniciais do termo *Laboratório de Ensino à Estatística e Matemática*, um pacote `r rlink` em que quase todas as suas funções foram desenvolvidas nessa linguagem. Recomendamos um conhecimento prévio sobre a linguagem `r rlink`, indicando como estudo, uma das referências o livro R básico [@Rbasico2022].
+
+::: {.callout-important}
+<u>**Linguagem R**</u>. `r rlink` é um software livre, desenvolvido em 1991 pelos professores *George Ross Ihaka* e *Robert Clifford Gentleman* do Departamento de Estatística da Universidade Auckland, na Nova Zelândia. Inicialmente a também linguagem de programação foi desenvolvida para análise e visualização de dados, porém, devido sua versatilidade é possível ver o `r rlink` em uma imensa gama de projetos.
+:::
